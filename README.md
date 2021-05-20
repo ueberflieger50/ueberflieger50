@@ -5,5 +5,8 @@ I'm a 14-year-old dude living in Germany (Berlin). I am currently in 9th grade  
 - 🧠 If you are interested in anything of this I recommend to check out my [Homepage](https://uebie.de) (Written in German)
 
 ## Some stats
-[![Ueberfliegers's GitHub stats](https://github-readme-stats.vercel.app/api?username=ueberflieger50&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
+![](https://komarev.com/ghpvc/?username=ueberflieger50&label=PROFILE+VIEWS)
+
+[![Ueberfliegers's GitHub stats](https://github-readme-stats.vercel.app/api?username=ueberflieger50&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ueberflieger50&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
